@@ -4,7 +4,7 @@
 This repository hosts design patterns.
 
 ## Description
-The idea is to describe what the design pattern is but most importantly, the aim is to explain
+The idea is to describe what each design pattern is but most importantly, for each design pattern
 - How does it solve a specific problem we face
 - How exactly does the design pattern help
 - Things to keep in mind while implementing it
